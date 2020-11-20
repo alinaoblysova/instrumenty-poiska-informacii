@@ -1,4 +1,4 @@
 User-agent: * #Указывает директивы для всех роботов
-Disallow: /images/ #Запрещает индексацию папки images
+Disallow: https://alinaoblysova.github.io/instrumenty-poiska-informacii/images/ #Запрещает индексацию папки images
 Sitemap: https://alinaoblysova.github.io/instrumenty-poiska-informacii/sitemap.xml #Указывает расположение файла карты сайта
 Crawl-delay: 3 #Указывает задержку в размере 3 секунд между загрузкой страниц
