@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/index.htm</loc>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/poiskovye-instrumenty.htm</loc>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/poiskovye-katalogi.htm</loc>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/vidy-poiskovyh-katalogov.htm</loc>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/poiskovye-mashiny.htm</loc>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/primery-poiskovyh-mashin.htm</loc>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://alinaoblysova.github.io/instrumenty-poiska-informacii/metapoiskovye-sistemy.htm</loc>
+            <priority>0.8</priority>
+        </url>
+    </urlset>
